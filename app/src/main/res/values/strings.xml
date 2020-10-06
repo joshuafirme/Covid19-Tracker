@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NCOV-Tracker</string>
+    <string name="coronavirus_disease_spreads_primarily_through_contact_with_an_infected_person_when_they_cough_or_sneeze_it_also_spreads_when_a_person_touches_a_surface_or_object_that_has_the_virus_on_it_then_touches_their_eyes_nose_or_mouth">Coronavirus disease spreads primarily through contact with an infected person when they cough or sneeze. It also spreads when a person touches a surface or object that has the virus on it, then touches their eyes, nose, or mouth..</string>
+    <string name="coronavirus_disease_covid_19_is_an_infectious_disease_caused_by_a_new_virus_the_disease_causes_respiratory_illness_like_the_flu_with_symptoms_such_as_a_cough_fever_and_in_more_severe_cases_difficulty_breathing_you_can_protect_yourself_by_washing_your_hands_frequently_avoiding_touching_your_face_and_avoiding_close_contact_1_meter_or_3_feet_with_people_who_are_unwell">Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.</string>
+    <string name="source_world_health_organization">Source: World Health Organization</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
